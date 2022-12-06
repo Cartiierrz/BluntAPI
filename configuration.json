@@ -1,6 +1,7 @@
 {
   "bluntpile": {
     "killswitch": false,
+    "version": "1.0.0",
     "blacklist": {
       "pto": true,
       "p.to": true,
@@ -18,6 +19,7 @@
   },
   "bluntpal": {
     "killswitch": false,
+    "version": "not released",
     "blacklist": {
       "pto": true,
       "p.to": true,
