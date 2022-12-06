@@ -1,0 +1,14 @@
+{
+  "bluntpile": {
+    "killswitch": false,
+    "blacklist": {
+      "Phyziks": true
+    }
+  },
+  "bluntpal": {
+    "killswitch": false,
+    "blacklist": {
+      "Phyziks": true
+    }
+  }
+}
