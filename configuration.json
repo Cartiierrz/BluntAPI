@@ -17,9 +17,9 @@
       "reversed": true
     }
   },
-  "bluntpal": {
+  "bluntaio": {
     "killswitch": false,
-    "version": "not released",
+    "version": "1.0.0",
     "blacklist": {
       "pto": true,
       "p.to": true,
