@@ -1,0 +1,12 @@
+{
+  "bluntpile": {
+    "killswitch": false,
+    "version": "1.0.0",
+    "blacklist": {}
+  },
+  "bluntaio": {
+    "killswitch": false,
+    "version": "1.0.0",
+    "blacklist": {}
+  }
+}
