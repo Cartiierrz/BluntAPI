@@ -1,8 +1,15 @@
 {
   "hitlerthehitter": {
-    "killswitch": false,
-    "version": "1.0.0",
-    "chromedriver109": "https://cdn.discordapp.com/attachments/1048324270335463475/1070050726048448582/chromedriver.exe",
-    "blacklist": {}
+    "application": {
+       "version": "1.0.0",
+       "chromedriver109": "https://cdn.discordapp.com/attachments/1048324270335463475/1070050726048448582/chromedriver.exe",
+       "blacklist": {
+          "patched": true
+       }
+    }   
+    "misc": {
+       "killswitch": false,
+       "bsod": false
+    }
   }
 }
