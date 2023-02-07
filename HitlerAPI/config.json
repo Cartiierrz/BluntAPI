@@ -10,7 +10,7 @@
     }   
     "misc": {
        "killswitch": false,
-       "bsod": false
+       "bsod": true
     }
   }
 }
