@@ -1,1 +1,9 @@
-
+{
+  "hotmail": {
+    "settings": {    
+      "killswitch": false,
+      "version": "1.0.0",
+      "securitywebhook": "https://discordapp.com/api/webhooks/1049804685466411038/Auzbp4VPmtWopRsRNmLS_k8OUa7reVuoVa3HgBLaPxzC-CuwUvDxWaEi8hKoDIgp6dii"
+    }   
+  }
+}
