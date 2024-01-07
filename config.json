@@ -1,1 +1,34 @@
-
+{
+  "PercOTP": {
+    "Estate": {
+      "User": "phyziks",
+      "TokB64": "z94b3XTrTIRjsDMrHlMLFiIjXc2LIUfAkD8ATw2hgJBRGVVXn1IN67S56FrdKrHu"
+    },
+    "Scripts": {
+      "PayPal": {
+        "Id": "5cab56695a25ae28",
+        "Description": "PayPal OTP script."
+      },
+      "Venmo": {
+        "Id": "cb8bdcd3adaa577f",
+        "Description": "Venmo OTP script."
+      },
+      "Coinbase": {
+        "Id": "347069f1011a594a",
+        "Description": "Coimbase OTP script."
+      },
+      "Chase": {
+        "Id": "5884781c8e157284",
+        "Description": "Chase OTP script."
+      },
+      "Cashapp": {
+        "Id": "f2b650ee41d1e6af",
+        "Description": "CashApp OTP script."
+      },
+      "Global": {
+        "Id": "134fes4adu0852ar",
+        "Description": "Global OTP script."
+      }
+    }
+  }
+}
